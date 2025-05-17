@@ -5,7 +5,7 @@
 ## Как запустить
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/division-program.git
+   git clone https://github.com/SergeyLinnik/-.git
    ```
 2. Запустите программу:
    ```bash
